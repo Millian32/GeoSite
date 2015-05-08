@@ -85,6 +85,5 @@ C:\Users\Max\Documents\Visual Studio 2013\Projects\BrunsHeadering\GeoSite\BrunsH
 C:\Users\Max\Documents\Visual Studio 2013\Projects\BrunsHeadering\GeoSite\BrunsHeadering\bin\tr-TR\Kendo.Mvc.resources.dll
 C:\Users\Max\Documents\Visual Studio 2013\Projects\BrunsHeadering\GeoSite\BrunsHeadering\bin\uk-UA\Kendo.Mvc.resources.dll
 C:\Users\Max\Documents\Visual Studio 2013\Projects\BrunsHeadering\GeoSite\BrunsHeadering\bin\zh-CN\Kendo.Mvc.resources.dll
-C:\Users\Max\Documents\Visual Studio 2013\Projects\BrunsHeadering\GeoSite\BrunsHeadering\obj\Debug\BrunsHeadering.csprojResolveAssemblyReference.cache
 C:\Users\Max\Documents\Visual Studio 2013\Projects\BrunsHeadering\GeoSite\BrunsHeadering\obj\Debug\BrunsHeadering.dll
 C:\Users\Max\Documents\Visual Studio 2013\Projects\BrunsHeadering\GeoSite\BrunsHeadering\obj\Debug\BrunsHeadering.pdb
